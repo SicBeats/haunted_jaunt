@@ -2,6 +2,8 @@
 
 Authors: Jordan Whiteley, Elias Faris, Liam Dauphinee
 
+Unity version 2021.2.17
+
 Each person completed the tutorial on their own, this repository contains the
 combined work for the added parts described below
 
