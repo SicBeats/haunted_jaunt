@@ -69,7 +69,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnAnimatorMove()
     {
-        m_RigidBody.MovePosition(m_RigidBody.position + m_Movement * m_Animator.deltaPosition.magnitude);
+        m_RigidBody.MovePosition(m_RigidBody.position + (m_Movement * (float)1.37) * m_Animator.deltaPosition.magnitude);
         m_RigidBody.MoveRotation(m_Rotation);
     }
 
