@@ -15,3 +15,5 @@ Gameplay element that uses Dot Product:
 Gameplay element that uses Linear Interpolation:
 
 Particle Effect:
+We created a particle effect on John Lemon himself using the Dust Mote texture
+It will look like little balls of light are falling off of John Lemon and this is because we deemed John Lemon special enough to have a particle effect
