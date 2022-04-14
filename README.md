@@ -16,6 +16,8 @@ look at the player (John Lemon), making the gargoyles more dangerous as their
 "PointOfView" will have you in sight as it always faces you.
 
 Gameplay element that uses Linear Interpolation:
+For LERP, when the primary element (i.e. John Lemon) comes within 3.1 units of
+the secondary element (i.e. Ghost), the ghost will start to spin!
 
 Particle Effect:
 We created a particle effect on John Lemon himself using the Dust Mote texture
